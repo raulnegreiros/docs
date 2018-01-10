@@ -80,7 +80,6 @@ there are a few steps to start it up:
 
 	$ docker-compose up -d
 	$ ./kong.config.sh
-	$ ./create-user.sh
 
 And that's it. 
 

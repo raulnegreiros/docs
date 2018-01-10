@@ -106,16 +106,6 @@ present at the root of the repository. ::
 
   ./kong.config.sh
 
-User creation
-^^^^^^^^^^^^^
-
-To be able to use the system's web front-end and make API calls, a user must be created. To create
-a first `admin` user, the following script can be run on the host machine of the platform (that
-is, the machine where docker-compose was run). The script is located at the root of the repository.
-::
-
-  ./create.user.sh
-
 Usage
 -----
 
